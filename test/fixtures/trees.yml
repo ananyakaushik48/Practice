@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  wood: MyString
+  leaftype: MyString
+  age: 1
+
+two:
+  wood: MyString
+  leaftype: MyString
+  age: 1
